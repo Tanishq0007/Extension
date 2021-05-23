@@ -3,7 +3,7 @@
     "name": "Tanishq Launcher",
     "description": "Quick display launch",
     "version": "1.0.0",
-    "icons": {"128":"Untitiled.png"},
+    "icons": {"128":"Untitled.png"},
     "browser_action": {
         "default_icon": "Icon.png",
         "default_popup": "popup.html"
